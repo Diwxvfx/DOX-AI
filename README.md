@@ -7,4 +7,4 @@ Features:
 - Learns new facts about you from your messages
 - Memory stored in storage.txt
 
-Built with: Python, LangChain, Groq API, HTML, CSS, JavaScript, plain-text storage
+Built with: Python, LangChain, Groq API, HTML, CSS, JavaScript, plain-text storage.
